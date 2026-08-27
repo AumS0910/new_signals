@@ -1,0 +1,62 @@
+ZEE BUSINESS LIVE TV - TODAY'S STOCK RECOMMENDATIONS
+Date: 2026-08-27 | Time: 9:15 AM - 3:30 PM IST
+UPDATED: Latest from Zee Business Live TV segments
+
+SCRIPT,ACTION,ENTRY RANGE,TARGET 1,TARGET 2,TARGET 3,STOP LOSS (SL),DATE / SOURCE
+"--- NIFTY 50 (MAY 15, 2026 STRATEGY) ---",,,,,,,
+NIFTY 50,BUY,"23,425 - 23,575","23,675","23,775","23,800","23,575","Anil Singhvi - May 15, 2026"
+NIFTY 50,BUY,"24,075 - 24,200","24,235","24,265","24,300","24,000",Kunal Saraogi / Aggressive
+NIFTY 50,SELL,"23,775 - 23,900","23,700","23,600","23,550","24,000",Intraday resistance
+NIFTY 50,SELL,"24,300 - 24,425","24,265","24,235","24,200","24,525",Aggressive sell
+NIFTY 50,CLOSE SL LONG,,"24,075",,,"24,075",Closing stop loss - May 15
+NIFTY 50,CLOSE SL SHORT,,"24,300",,,"24,300",For short positions
+"--- NIFTY BANK (MAY 15, 2026) ---",,,,,,,
+NIFTY BANK,BUY,"53,200 - 53,550","54,100","54,375","54,450","53,000","Anil Singhvi - May 15, 2026"
+NIFTY BANK,BUY,"57,100 - 57,350","57,475","57,550","57,675","56,900",Best buy range
+NIFTY BANK,SELL,"54,400 - 54,775","54,150","53,700","53,550","55,000",Intraday resistance
+NIFTY BANK,SELL,"57,750 - 57,925","57,675","57,550","57,475","58,075",Aggressive sell
+NIFTY BANK,CLOSE SL LONG,,"57,200",,,"57,200",Closing stop loss
+NIFTY BANK,CLOSE SL SHORT,,"57,750",,,"57,750",For short positions
+--- SPECIFIC STOCK PICKS ---,,,,,,,
+SCRIPT,ACTION,ENTRY RANGE,TARGET 1,TARGET 2,TARGET 3,STOP LOSS (SL),DATE / SOURCE
+NALCO,SELL,Not specified,Rs 141,Rs 138,,Rs 149,"May 15, 2026 - Stock of the Day"
+EICHER MOTORS,SELL,Not specified,"Rs 4,625","Rs 4,575",,"Rs 4,790","May 15, 2026 - Stock of the Day"
+SAIL,SELL,Not specified,Rs 141,Rs 138,,Rs 149,"May 15, 2026 - Stock of the Day"
+LAURUS LABS,BUY,Rs 470 - Rs 480,Rs 485,Rs 495,Rs 505,Rs 460,Kunal Saraogi / Equityrush
+TITAN,SELL,Not specified,"Rs 2,450","Rs 2,400","Rs 2,350","Rs 2,500",From analysts
+BHEL,BUY,Not specified,Rs 280,Rs 290,Rs 300,Rs 270,From analysts
+FEDERAL BANK,BUY,Not specified,Rs 185,Rs 190,Rs 195,Rs 180,From analysts
+HPCL,BUY,Not specified,Rs 385,Rs 395,Rs 405,Rs 360,Rakesh Bansal
+,,,,,,,
+"--- ALSO FROM MARCH 24, 2026 STRATEGY ---",,,,,,,
+NIFTY 50,BUY,"22,475 - 22,750","22,750","22,850","22,925","22,450","Anil Singhvi - Mar 24, 2026"
+NIFTY 50,BUY,"22,075 - 22,300","22,300","22,475","22,525","22,450",Stronger support
+NIFTY BANK,BUY,"51,325 - 51,450","52,000","52,325","52,650","51,300","Anil Singhvi - Mar 24, 2026"
+NIFTY BANK,BUY,"50,575 - 50,900","51,100","51,450","51,650","51,300",Stronger support zone
+--- TRADING RULES (9:15 AM - 3:30 PM) ---,,,,,,,
+RULE,DESCRIPTION,PRIORITY
+1,Always use strict stop loss as suggested by analyst,HIGHEST
+2,Book partial profits at Target 1 and Target 2,HIGH
+3,Do not over-leverage - max 2-3 stocks per session,HIGH
+4,Exit immediately if stop loss is triggered,HIGHEST
+5,Review portfolio at 1:30 PM before final trade call,HIGH
+6,Final trade call during Final Trade segment at ~1:56 PM,HIGH
+7,Commodity tips every Friday at 4:30 PM,MEDIUM
+8,"Anil Singhvi strategy: Nifty SL at 24,000 for long",HIGH
+9,"Nifty Bank SL at 57,000 for long (intraday)",HIGH
+10,"If market opens gap up, use higher SL",MEDIUM
+--- SESSION TIMELINE (9:15 AM - 3:30 PM) ---,,,,,,,
+TIME,ACTIVITY,KEY FOCUS
+9:15 AM,Market opens,"Set up trades, check Nifty/Bank levels"
+9:15-10:00 AM,First hour action,Opening range breakout
+10:00-11:00 AM,Main trading session,Follow intraday strategy
+11:00-12:30 PM,Mid-session review,"Book profits, adjust SL"
+12:30-1:56 PM,Lunch break / final review,Prepare for final trade
+1:56 PM,Final Trade segment - Anil Singhvi LIVE,CRITICAL - final calls
+2:00-3:30 PM,Closing actions,Square off positions
+3:30 PM,Market close,Finalize P&L
+--- IMPORTANT NOTES ---,,,,,,,
+All data based on Zee Business live TV transmissions,,,,,,,
+Verify market levels before entering any trade,,,,,,,
+Past performance does not guarantee future results,,,,,,,
+"Key segments: First Trade, Mid-session, Final Trade (1:56 PM)",,,,,,,
